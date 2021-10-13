@@ -1,14 +1,10 @@
 # Template-AWS .NETCORE
 
-Visando estabelecer uma padronização para apis em .NET CORE, monte uma estrutura de modelo de arquitetura limpa, dessa forma conseguimos obter um forte desacomplamento entre os componenetes entre os componentes das aplicações, gerando um código facilmente testavel e conseguimos obter mudanças rapidas no seu desenvolivmento. O Template que esta nesse repositorio busca atender os principais pontos de uma arquitetura limpa que são:
+Aiming to establish a standardization for apis in .NET CORE, build a clean architecture model structure, in this way we can get a strong mismatch between the components between the application components, generating an easily testable code and we can get quick changes in its development. The Template that is in this repository seeks to meet the main points of a clean architecture, which are:
 
-- Forte Desacomplamento 
-- Centralidade no Dominio
-- Codigo Testavel
-- Velocidade no Desenvolvimento
+- Strong Decoupling
+- Domain Centrality
+- Testable Code
+- Speed ​​in Development
 
-***OBS***: Não é obrigatorio a adoção de todas as camadas, mais o objetivo principal é que sempre seu dominio esteja desacomplado.
-
-
-
-
+***NOTE***: It is not mandatory to adopt all layers, but the main objective is that your domain is always decoupled.
